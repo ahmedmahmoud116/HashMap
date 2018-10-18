@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1525560028 source:c:\users\lenovo\desktop\hashmap\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+
